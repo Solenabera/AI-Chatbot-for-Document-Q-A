@@ -24,7 +24,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Demo
-(Add screenshot)
+![alt text](image.png)
 
 ## Future Improvements
 - Multi-document support
